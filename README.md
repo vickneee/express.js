@@ -1,7 +1,7 @@
 # express.js
 Express.js course.
 
-In terminal install:\
+In terminal, you can install:\
 	npm install express\
 	npm install body-parser\
 	npm install ejs express
