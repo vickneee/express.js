@@ -4,7 +4,7 @@ Express.js course.
 In terminal install:\
 	npm install express\
 	npm install body-parser\
-	npm install ejs express\
+	npm install ejs express
 
 In the project directory, you can run:
 
