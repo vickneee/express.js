@@ -3,6 +3,6 @@ Express.js course.
 
 In the project directory, you can run:
 
-#### 'node (FileName).js' 
+#### `node ExpressServer.js or index.js` 
 
-Open http://localhost:port-number to view it in your browser.
+Open example [http://localhost:3000](http://localhost:3000) to view it in your browser.
