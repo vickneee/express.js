@@ -5,7 +5,7 @@ Install node:
 
 [https://nodejs.org/en/download/package-manager](https://nodejs.org/en/download)
 
-After the installation you can verify the installed version:
+After the installation, you can verify in the terminal the installed version:
 
 	node --version
 	
