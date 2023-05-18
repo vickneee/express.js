@@ -12,7 +12,6 @@ app.use(function(req, res, next) {
 });
 app.use(express.static(__dirname));
 app.get("/", (req, res) => {
-	// res.send('<html><h1>Hello, I am at your service!</h1></html>');
 	res.sendFile(__dirname + "/Hello.html");
 });
 
