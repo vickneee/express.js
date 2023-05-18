@@ -11,8 +11,6 @@ After the installation you can verify the installed version:
 
 node --version
 
-In terminal, you can also install:\
-
 Install the Express using npm.
 	
 	npm install express
