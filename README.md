@@ -21,6 +21,6 @@ Install the Body-Parser using npm.
 
 In the project directory, you can run:
 
-#### `node ExpressServer.js` 
+	node ExpressServer.js
 
-Open example [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
