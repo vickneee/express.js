@@ -9,7 +9,7 @@ Install node:
 
 After the installation you can verify the installed version:
 
-node --version
+	node --version
 
 Install the Express using npm.
 	
