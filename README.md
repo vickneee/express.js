@@ -11,6 +11,10 @@ After the installation you can verify the installed version:
 	
 ## hello-express
 
+Initialize Node.js app and accept all default values
+
+	npm init
+
 Install the Express using npm.
 	
 	npm install express
