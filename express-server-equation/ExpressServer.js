@@ -38,11 +38,11 @@ app.post("/Equation", (req, res) => {
 		x2 = (-b) / (2*a)
 		console.log('x1 = x2 = ' + x1)
 	}
-	let sqrtdelta;
+	let sqrtDelta;
 	if (delta > 0) {
-		sqrtdelta = Math.sqrt(delta)
-		x1 = (-b + sqrtdelta) / (2 * a)
-		x2 = (-b - sqrtdelta) / (2 * a)
+		sqrtDelta = Math.sqrt(delta)
+		x1 = (-b + sqrtDelta) / (2 * a)
+		x2 = (-b - sqrtDelta) / (2 * a)
 		message = 'Delta > 0, 2 solutions';
 		console.log('x1 = ' + x1 + 'x2 = ' + x2)
 	}
