@@ -3,19 +3,23 @@ Express.js course.
 
 ## express-server-hello
 
-Checking node version:
-
-node --version
-
-If needed, install node:
+Install node:
 
 https://nodejs.org/en/download/package-manager
 
-In terminal, you can install:\
+After the installation you can verify the installed version:
+
+node --version
+
+In terminal, you can also install:\
+
+Install the Express using npm.
 	
 	npm install express\
+	
+Install the Body-Parser using npm.
+	
 	npm install body-parser\
-	npm install ejs express
 
 In the project directory, you can run:
 
