@@ -9,6 +9,10 @@ After the installation you can verify the installed version:
 
 	node --version
 	
+With the installation of Node.js, Npm is included. You can check to see if npm was properly installed:
+
+	npm --version
+	
 ## hello-express
 
 In the project directory, you can initialize Node.js app and accept all default values:
