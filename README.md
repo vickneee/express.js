@@ -5,7 +5,7 @@ Express.js course.
 
 Install node:
 
-https://nodejs.org/en/download/package-manager
+[https://nodejs.org/en/download/package-manager](https://nodejs.org/en/download)
 
 After the installation you can verify the installed version:
 
@@ -15,11 +15,11 @@ In terminal, you can also install:\
 
 Install the Express using npm.
 	
-	npm install express\
+	npm install express
 	
 Install the Body-Parser using npm.
 	
-	npm install body-parser\
+	npm install body-parser
 
 In the project directory, you can run:
 
