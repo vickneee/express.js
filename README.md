@@ -1,6 +1,11 @@
 # express.js
 Express.js course.
 
+In terminal install:
+  npm install express
+	npm install body-parser
+	npm install ejs express
+
 In the project directory, you can run:
 
 #### `node ExpressServer.js or node index.js` 
